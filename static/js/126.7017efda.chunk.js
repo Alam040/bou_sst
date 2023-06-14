@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkca_mark=self.webpackChunkca_mark||[]).push([[126],{9126:function(a,t,r){r.d(t,{FQA:function(){return c}});var n=r(9983);function c(a){return(0,n.w_)({tag:"svg",attr:{fill:"currentColor",viewBox:"0 0 16 16"},child:[{tag:"path",attr:{d:"M9.5 13a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"}}]})(a)}}}]);
+//# sourceMappingURL=126.7017efda.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/984.b95474c2.chunk.js","mappings":"mIAMA,UAJA,WACE,OAAO,yBAAK,QACd,C","sources":["pages/Public/Exam.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction Exam() {\r\n  return <div>Exam</div>;\r\n}\r\n\r\nexport default Exam;\r\n"],"names":[],"sourceRoot":""}

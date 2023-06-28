@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkca_mark=self.webpackChunkca_mark||[]).push([[598],{4598:function(a,c,e){e.r(c);e(7313);var n=e(6417);c.default=function(){return(0,n.jsx)("div",{children:"Exam"})}}}]);

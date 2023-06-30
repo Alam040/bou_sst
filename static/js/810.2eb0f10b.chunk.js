@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkca_mark=self.webpackChunkca_mark||[]).push([[810],{2810:function(n,a,e){e.r(a);var r,t=e(168),c=(e(7313),e(3115)),i=e(6417);a.default=function(){return(0,i.jsx)(h,{children:"CAMarks"})};var h=c.ZP.section(r||(r=(0,t.Z)(["\n  width: 100vw;\n  min-height: 80vh;\n  padding-top: 68px;\n"])))}}]);

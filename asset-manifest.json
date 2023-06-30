@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bou_sst/static/css/main.a202cdce.css",
-    "main.js": "/bou_sst/static/js/main.4e139b5b.js",
+    "main.js": "/bou_sst/static/js/main.e247f887.js",
     "static/js/328.346c7515.chunk.js": "/bou_sst/static/js/328.346c7515.chunk.js",
     "static/js/483.072ae74f.chunk.js": "/bou_sst/static/js/483.072ae74f.chunk.js",
     "static/js/951.2d438452.chunk.js": "/bou_sst/static/js/951.2d438452.chunk.js",
@@ -72,6 +72,6 @@
   },
   "entrypoints": [
     "static/css/main.a202cdce.css",
-    "static/js/main.4e139b5b.js"
+    "static/js/main.e247f887.js"
   ]
 }
